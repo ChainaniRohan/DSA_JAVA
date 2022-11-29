@@ -1,5 +1,7 @@
 package javaAC;
 
 public class basic01 {
-    psvs
+    public static void main(String[] args) {
+
+    }
 }
