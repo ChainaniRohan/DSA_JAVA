@@ -5,15 +5,20 @@ import java.util.*;
 public class input {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
+//        int a = sc.nextInt();
+//        int b = sc.nextInt();
+//        System.out.println(a+b);
+
         String line = sc.nextLine();
         System.out.println(line);
 //        String word = sc.next();
 //        System.out.println(word);
 //        Float price = sc.nextFloat();
 //        System.out.println(price);
-        System.out.println(sc.next());
-        System.out.println(sc.nextShort());
-        System.out.println(sc.nextBoolean());
-        System.out.println(sc.nextDouble());
+//        System.out.println(sc.next());
+//        System.out.println(sc.nextShort());
+//        System.out.println(sc.nextBoolean());
+//        System.out.println(sc.nextDouble());
     }
 }
