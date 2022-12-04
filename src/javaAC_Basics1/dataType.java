@@ -1,4 +1,4 @@
-package javaAC;
+package javaAC_Basics1;
 
 public class dataType {
     public static void main(String[] args) {

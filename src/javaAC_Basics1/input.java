@@ -1,4 +1,4 @@
-package javaAC;
+package javaAC_Basics1;
 import java.util.*;
 //import java.util.Scanner;
 
