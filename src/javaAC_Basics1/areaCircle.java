@@ -8,6 +8,7 @@ public class areaCircle {
         float pi = 3.14f;
         System.out.print("Enter Radius: ");
         float radius = sc.nextFloat();
+
         float area = pi*radius*radius;
         System.out.println("area = "+area);
     }
