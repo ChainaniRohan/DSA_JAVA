@@ -1,4 +1,4 @@
-package javaAC_Basics1.patterns;
+package patterns.patterns;
 
 public class invertedHalfPrimaid {
     public static void main(String[] args) {
