@@ -1,4 +1,4 @@
-package javaAC_Basics1;
+package Projects;
 
 import java.util.Scanner;
 

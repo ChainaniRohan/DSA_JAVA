@@ -1,4 +1,4 @@
-package javaAC_Basics1;
+package Projects;
 
 public class project04 {
     public static int avg(int a, int b, int c){
