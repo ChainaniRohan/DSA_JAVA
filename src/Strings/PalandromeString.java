@@ -2,13 +2,14 @@ package Strings;
 
 public class PalandromeString {
     public static boolean isPal(String str){
-        int lo = 0;
-        int hi = str.length()-1;
-        while (lo<hi){
-            if (str.charAt(lo) == str.charAt(hi)){
-                lo++;
-                hi--;
-            }
+        for (int i = 0; i < str.length()/2; i++){
+            if (str.charAt(i)!=str.charAt(str.length()-1-i)) return false;
         }
+        return true;
+    }
+
+    public static void main(String[] args) {
+        String str = "non";
+        System.out.println(isPal(str));
     }
 }
